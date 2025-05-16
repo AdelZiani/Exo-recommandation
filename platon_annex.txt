@@ -1,0 +1,106 @@
+0 / 5c5d81a3-ab81-4760-80ed-1c3da4c4f6e7 / Écrire la fonction generer_puzzle() / YAEL COEFFIER / DRAFT
+1 / ec130a19-d837-4ee0-b7d5-29c2133c5e1a / Écrire la fonction diviseurs. / YAEL COEFFIER / READY
+2 / 46ed268a-4ffa-40b4-be5b-0161020cbb8f / Test exercice ComplexeID / YAEL COEFFIER / NOT_TESTED
+3 / 2df8524c-db55-4445-96ba-c8fb75d9fbd6 / Des fonctions / Dominique REVUZ / READY
+4 / 0152cbd4-400d-4f13-b101-a8a2874efb9c / Nombre de lignes d'un fichier / Christophe PRIEUR / DRAFT
+5 / 435d400c-454e-44dd-a98c-9da70231c788 / Des fonctions et des listes ¿ / Dominique REVUZ / DRAFT
+6 / fbf6bd07-b46b-4662-bb48-b2aaef1aa2e6 / Test exercice ComplexeID / Dominique REVUZ / DRAFT
+7 / 40890b97-37b0-4f03-bc9b-ca29c1b43908 / Test exercice ComplexeID / Dominique REVUZ / READY
+8 / e98a7bcf-733a-441a-aadd-86c26dbcadb0 / Écrire la fonction verifier_matrice(M) / YAEL COEFFIER / READY
+9 / 2b231b30-e250-4ee7-94dc-578b95db0b73 / Écrire la fonction grille_valide_aleatoire() / YAEL COEFFIER / READY
+10 / 77081137-2728-4e16-b26e-fdacfb79b020 / Écrire la fonction matrice_carree_aleatoire(n) / YAEL COEFFIER / READY
+11 / 47f0f5b2-228b-46e3-a192-81586afe79ae / Test exercice ComplexeID / Dominique REVUZ / BUGGED
+12 / e0e7aa0b-b2c5-446a-9f6b-fc4e3e12795f / Nombre d'identifiants différents / Christophe PRIEUR / DEPRECATED
+13 / 3e08d2cc-2766-471e-8b46-cab6f4317ec9 / Identifiants des personnes ayant émis le plus d'appels / Christophe PRIEUR / DRAFT
+14 / 83bd81d0-168c-42d2-ac7c-2926c7e8bc86 / Exo test / YAEL COEFFIER / READY
+15 / 0fbe64ad-62a0-40ee-83dd-e9ac268d817a / Test exercice ComplexeID / Dominique REVUZ / DRAFT
+16 / 137f278a-fb25-4571-9d2f-0617776aaffe / Des variables / Dominique REVUZ / DRAFT
+17 / 07bcb98d-9fc2-4d18-b4df-95a57ef3eea2 / Test PLSoluce / YAEL COEFFIER / READY
+18 / a7e10ae3-1878-4929-883f-766a1dc1f55d / Écrire la fonction range_plus_fin(n) / YAEL COEFFIER / READY
+19 / 148d9163-edf2-4007-82b2-61191582bab8 / Écrire la fonction premier2(n) / YAEL COEFFIER / READY
+20 / bf864097-0ada-49a4-9b3d-50d2dbb56c84 / Écrire la fonction premier3(n) / YAEL COEFFIER / READY
+21 / 5601aa3f-8d73-4af5-9ee2-6bea91f9bcbc / Écrire la fonction premier4(n) / YAEL COEFFIER / READY
+22 / 4ef1195b-caef-4188-a9c9-7584f2551773 / Écrire la fonction liste_aleatoire_naturels(n, maximum=100) / YAEL COEFFIER / READY
+23 / 50fc0dae-2c21-413f-b95d-af3159698717 / Écrire la fonction liste_aleatoire_triee(n, maximum=100, pas=10) / YAEL COEFFIER / READY
+24 / fd984019-829e-447d-a680-839d58bca9e0 / Écrire la fonction enumerer1(liste) / YAEL COEFFIER / READY
+25 / 45ddbc2a-365e-4144-b362-c3a799054bfc / Écrire la fonction enumerer2(liste) / YAEL COEFFIER / READY
+26 / 8d0e5be3-f15c-4412-b919-ae7a7fa94cf4 / Écrire la fonction insertion_triee2(liste, element) / YAEL COEFFIER / READY
+27 / c56f9d12-6e75-4ad1-acae-c3fba2683aa7 / Écrire la fonction insertion_triee(liste, element) / YAEL COEFFIER / READY
+28 / 378cd31d-2348-4a0a-a940-0d521de0a3ed / Écrire la fonction insertion_triee3(liste, element) / YAEL COEFFIER / READY
+29 / 55d8398e-9835-4ae1-82b8-3ee3a448876b / Écrire la fonction supprimer_pairs_1(liste) / YAEL COEFFIER / READY
+30 / a1c26e37-cb84-4cb5-9401-84268e72ed59 / Écrire la fonction supprimer_pairs_2(liste) / YAEL COEFFIER / READY
+31 / d119940c-a4df-42e9-8f57-02419210b0db / Écrire la fonction supprimer_pairs_3(liste) / YAEL COEFFIER / READY
+32 / 9e0906ec-0405-4e08-bc26-8948f7bcd5c3 / Test exercice ComplexeID / YAEL COEFFIER / READY
+33 / c25444e1-c931-4b96-b0da-4318549d0cab / Initialisation d'une variable (3). / MAX TEKPA / READY
+34 / ef6837e6-49b2-4b9c-9125-9ba2ec60ff96 / Trinôme du second degré / MAX TEKPA / READY
+35 / 4f8b6bda-a44d-4845-b713-3246a7f3eabe / Écrire la fonction additions_int(n, b=1000) / YAEL COEFFIER / READY
+36 / f6af9c9c-bcbf-4eed-bee2-4886022c17f5 / Écrire la fonction divisions_int(n, b=1000) / YAEL COEFFIER / READY
+37 / 877c41a9-2fba-439c-a0ba-5df340504879 / Écrire la fonction multiplications_int(n, b=1000) / YAEL COEFFIER / READY
+38 / a59f00f7-4f51-441e-b2b6-72362baab8e3 / Écrire la fonction multiplications(n) / YAEL COEFFIER / READY
+39 / d7374642-c382-4b47-a50e-5d99958f0d5e /  Fonction conditionnelle / OGNJEN MARICIC / READY
+40 / 880d418c-afb7-4ccc-8645-f56be8668154 /  Fonction / OGNJEN MARICIC / READY
+41 / 82d09a74-9ccc-40bc-9060-16dac44a0418 /  Oh le bo carré / OGNJEN MARICIC / READY
+42 / ba44d5b2-e5f6-4590-874b-a0748e2b0be5 / Test 2
+ / YAEL COEFFIER / READY
+43 / 7d75b637-22ea-4862-883a-7655c0679cd7 /  Echanger les valeurs de deux variables / Dominique REVUZ / READY
+44 / ade4f5e1-4aa1-43d7-b1ac-591b4c306f73 / Test 2
+ / Leo EXIBARD / READY
+45 / 24acfaba-1ec6-4666-b9fe-19ad111f04bd / Test 2
+ / YAEL COEFFIER / READY
+46 / 35964e04-23e4-4123-b023-498f6946f1f1 /  Sommes des N premiers entiers / OGNJEN MARICIC / READY
+47 / 564a0887-1fa8-4f32-9b4d-2315dc78de8a / Recréer la fonction append / Dominique REVUZ / READY
+48 / 73446d8e-5c0b-42b0-b8a3-1471d4967ee3 / Recréer la fonction concat / Dominique REVUZ / READY
+49 / d8c4ba89-e7a3-485f-9dfe-06e86c6ba600 / A faire / MAKSAT MUNAITPASOV / READY
+50 / 00ece82b-97ca-4027-85e9-3a4f14d8a1c0 / Test 2
+ / Dominique REVUZ / READY
+51 / 5cfb9d8d-2a3d-4513-9a4c-e513f3089b5b /  Fonction conditionnelle / OGNJEN MARICIC / READY
+52 / 65938c12-aca0-4cf2-98ff-4c3ad5e3f1d2 /  Fonction / OGNJEN MARICIC / READY
+53 / bec4beb9-7d7b-451f-b5d9-a0a1123f80e6 /  Fonction / OGNJEN MARICIC / READY
+54 / 133921f4-34a3-443e-b525-9cf60296cbcc / Calcul de l'image d'une fonction affine / Dominique REVUZ / READY
+55 / 277cc1f2-836c-468b-8be3-6e122920840a / A faire / MAX TEKPA / READY
+56 / ca0401e6-8b5e-41e7-b899-d9f21ee5c6cb / A faire / Dominique REVUZ / READY
+57 / 51680c52-6bf6-4d5e-8ffd-f6ea0cc962cb /  l'age du Perroquet / Dominique REVUZ / READY
+58 / 2aa151b3-5870-41ac-9624-0e81e87c4931 / Table de multiplication / Dominique REVUZ / READY
+59 / eaa29492-44d3-48dc-af30-8570d4caabca / Somme des entiers / Dominique REVUZ / READY
+60 / e66b5ea1-8f14-4886-8970-9d39045ca387 /  Nombres parfaits / Dominique REVUZ / READY
+61 / 9549c947-c5fd-4c69-a407-74f7c26e85f8 / Facteur de division / Dominique REVUZ / READY
+62 / 592aa11a-00e3-4c1e-9b36-0855e0a779e7 / Calcul des notes / Dominique REVUZ / READY
+63 / 0639efbe-8ed9-4665-814b-628d34b4a442 / Nombre premier / Dominique REVUZ / READY
+64 / 877fb0b4-4190-479d-9a35-0ce00ed87c88 / Inverser une chaîne / Dominique REVUZ / READY
+65 / 7543ad18-7cc5-472f-8dab-abee986270bd / Palindromes / Dominique REVUZ / READY
+66 / f22e92ed-7fdc-4e45-8279-9bd841b832ed / Test de palindrome avec espaces ignorés et sans tenir compte des majuscules / Dominique REVUZ / READY
+67 / 2353272a-4778-4c1a-9779-4c3c4cf4214c / Somme de deux nombres / Dominique REVUZ / READY
+68 / 5909d304-5405-4296-9a3a-2d237b1a02d6 / Somme et produit d'un tuple / Dominique REVUZ / READY
+69 / d9ef861c-398a-4e61-a2b7-b61451f2d551 / Manipulation de Pairs (tuples) / Dominique REVUZ / READY
+70 / 6d49cc25-cfdd-4a13-bcd6-295ad852bebc / Factorielle récursive / Dominique REVUZ / READY
+71 / b6b40256-6790-47ed-b7b4-a6a6ec2e4baa / Trouver le plus grand nombre / Dominique REVUZ / READY
+72 / fbf1efcb-84e1-4c27-b4d2-8772ba9507e2 / Compter jusqu'à 10 / Dominique REVUZ / READY
+73 / f8c4eeb1-1e71-4600-9bde-65670cc9b626 / Utilisation des fonctions avant et après leur déclaration / Dominique REVUZ / READY
+74 / cc16afe9-967b-4429-b61c-c4fbff0bb300 / Écrire la fonction premier1(n) / YAEL COEFFIER / READY
+75 / ff9a28a4-f304-4eea-bdc2-b08e530a99fd / Salut avec paramètres par défaut / Dominique REVUZ / READY
+76 / 4ff07da4-8669-4dc5-b367-4402cb973280 / Élever au carré avec un paramètre par défaut / Dominique REVUZ / READY
+77 / ec7ee6ec-143f-4192-b3f1-b8fae9ad03f7 / Calculer le plus long préfixe commun / Dominique REVUZ / READY
+78 / 237e8499-ad5c-4c62-8942-028b8e5c32b1 / Calculer le plus long suffixe commun / Dominique REVUZ / READY
+79 / e2384c7e-8d7c-4925-96a1-f935949baeb4 / Calculer le plus long préfixe commun à plusieurs chaînes / Dominique REVUZ / READY
+80 / f4815a14-a142-4e9b-8510-49508981dde2 / Chercher une valeur dans une liste de listes / Dominique REVUZ / READY
+81 / b04885fd-ec50-448b-b87b-972b8bf92caf /  Oh le bo carré / Dominique REVUZ / READY
+82 / 3d3bee81-bd33-4719-9d9d-89b74175eb2a / Nombre de lignes d'un fichier / Dominique REVUZ / READY
+83 / ef05689e-962a-442e-9a65-d2721fbf3575 / Trouver un nombre pair / Dominique REVUZ / READY
+84 / a08da2fa-a29b-4031-868c-8db0090220be / Éléments communs entre deux listes / Dominique REVUZ / READY
+85 / 90be42df-2314-438e-beaf-0ce4d4245bc9 / Extraction des voyelles d'une chaîne / Dominique REVUZ / READY
+86 / 446dcbac-2b0b-4790-8e85-f9791235e45f / Insertion d'une valeur en n-ième position / Dominique REVUZ / READY
+87 / 4bd879c0-da36-4a03-815e-7fbaeb3d8623 / Préfixe et Suffixe d'une liste / Dominique REVUZ / READY
+88 / e6dea1f6-7588-45f6-a1d9-ddb4678c1c78 / Éléments consécutifs validant un critère dans un tableau / Dominique REVUZ / READY
+89 / 4eb0e05f-2273-41d3-9898-3c3593dc7ad6 /  Oh le bo carré / Dominique REVUZ / READY
+90 / 1066c26e-905c-4c3b-bf8e-ccdbff2ef75b / 
+Bienvenue utilisateur
+ / Dominique REVUZ / READY
+91 / 1c095b77-7b60-4e41-9850-4c35b3349804 / Pair ou impair / Dominique REVUZ / READY
+92 / 8eaa87b4-90e1-4ca3-aaf9-5731a40a29e1 / Création d'une liste en utilisant append / YAEL COEFFIER / READY
+93 / 66d78aef-d7bd-4ffc-b2c6-421eb46de402 / Écrire la fonction range_insert(n) / YAEL COEFFIER / READY
+94 / 53c4b41c-0893-4afc-8b2d-d8def0cc3c8c / Écrire la fonction concat(n) / YAEL COEFFIER / READY
+95 / 91949acd-560e-4e6b-8e83-0be3563c5ece / Écrire la fonction somme / YAEL COEFFIER / READY
+96 / 28fc914c-5422-42a2-949f-d0f865390634 / Afficher le contenu d'un fichier / Dominique REVUZ / READY
+97 / 01b6f93c-658e-4f52-899d-76ab6b4603d1 / Compter les identifiants distincts dans un fichier d'appels / Dominique REVUZ / READY
+98 / 86c7b8b8-5c53-4f61-bba5-89bc35617549 / Test exercice PLSoluce / YAEL COEFFIER / READY
+99 / ec01b4a9-7a21-4572-8043-48b77f558bac /  Oh le bo carré / Dominique REVUZ / READY

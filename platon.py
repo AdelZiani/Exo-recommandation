@@ -51,15 +51,15 @@ for id, status in ids:
         if "exercise" in responseenonce and "statement" in responseenonce["exercise"]:
             urlauthor = "https://platon.univ-eiffel.fr/api/v1/users/" + responseenonce["exercise"]["author"]
             responseauthor = requests.get(urlauthor, headers=headers).json()
-            annex.write(str(i) + " / " + id + " / " + responseenonce["exercise"]["title"] + " / " + responseauthor["resource"]["firstName"] + " " + responseauthor["resource"]["lastName"] + " / " + status + "\n")
+            #annex.write(str(i) + " / " + id + " / " + responseenonce["exercise"]["title"] + " / " + responseauthor["resource"]["firstName"] + " " + responseauthor["resource"]["lastName"] + " / " + status + "\n")
             #print(json.dumps(responseenonce, indent=4))
-       #     print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-            #enonce = open("../Exo-recommandation-data/données_exercices/exercices_autres/platon/solutions/platon_énoncé_" + str(i) +".txt", "w")
-            #soluce = open("../Exo-recommandation-data/données_exercices/exercices_autres/platon/enonces/platon_soluce_"+ str(i) +".py", "w")
-            #soluce.write(responsesoluce["variables"]["soluce"])
-            #enonce.write(responseenonce["exercise"]["statement"])
-            #enonce.close()
-            #soluce.close()
+            print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
+            enonce = open("./Exos/enonces/"+id+".txt", "w")
+            soluce = open("./Exos/soluce/"+id+".py", "w")
+            soluce.write(responsesoluce["variables"]["soluce"])
+            enonce.write(responseenonce["exercise"]["statement"])
+            enonce.close()
+            soluce.close()
             i+=1
 
     js = response.json()

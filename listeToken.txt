@@ -1,0 +1,1 @@
+library import, variable initialization, data input,casting,float type,calculation with PI,real division,screen display of text and variable value,print function call,arithmetic operator /,arithmetic operator *,keyboard input,string to number conversion,numeric operations,library import,input,variables,operations,casting,import,modulo operator,division operator
