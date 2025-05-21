@@ -1,0 +1,71 @@
+#
+library import
+import
+library import
+#
+input
+input
+data input
+data input
+data input
+keyboard input
+keyboard entry
+keyboard entry
+#
+variable
+variables
+variable initialization
+variable initialization
+variable initialization
+variable assignment
+variable incrementation
+incrementation
+variables
+#
+cast
+cast
+cast
+cast
+cast
+string conversion
+string conversion
+string conversion
+#
+calculation with PI
+real division
+arithmetic operator /
+arithmetic operator *
+arithmetic operator *
+arithmetic operator *
+arithmetic operator +
+numeric operations
+sum of integers calculation
+numeric operations
+numeric operations
+operations
+operations
+type float
+type float
+type int
+#
+screen display of text and variable value
+screen display of formatted variable value
+screen display of formatted variable value
+print function call
+print function call
+print function call
+#
+if
+while loop
+while loop
+while
+while
+while loop
+while loop
+boolean condition
+boolean operator >
+boolean condition
+boolean operator >
+conditional
+comparison
+comparison
