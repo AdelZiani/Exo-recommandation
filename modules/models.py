@@ -16,11 +16,14 @@ def to_dict(vectors,words):
         dico[tuple(vectors[i].detach().numpy().tolist())] = words[i]
     return dico
 
+def get_dict_vectors(model, sentences):
+    sentence_embeddings = vectorize(model, sentences)
+    return to_dict(sentence_embeddings, sentences)
+
 def vectorize(model, sentences):
     tokenizer = AutoTokenizer.from_pretrained(model)
     model = AutoModel.from_pretrained(model)
     encoded_input = tokenizer(sentences, padding=True, truncation=True, return_tensors='pt')
     with torch.no_grad():
         model_output = model(**encoded_input)
-    sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask'])
-    return to_dict(sentence_embeddings, sentences)
+    return to_dict(mean_pooling(model_output, encoded_input['attention_mask']), sentences)

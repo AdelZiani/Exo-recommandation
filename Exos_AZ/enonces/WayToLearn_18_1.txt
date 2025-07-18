@@ -1,0 +1,1 @@
+Écrire un programme Python pour insérer une chaîne donnée au début de tous les éléments d’une liste. 

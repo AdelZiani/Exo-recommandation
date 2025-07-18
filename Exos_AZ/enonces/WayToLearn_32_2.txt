@@ -1,0 +1,1 @@
+Écrivez un programme Python qui fait correspondre une chaîne de caractères contenant un ‘a’ suivi d’un ou plusieurs ‘b’. 

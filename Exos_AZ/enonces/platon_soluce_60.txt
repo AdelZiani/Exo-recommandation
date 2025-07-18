@@ -1,0 +1,7 @@
+Écris un programme qui demande un nombre entier et affiche si c'est un nomrbe parfait. 
+Un nombre est parfait si il est égal au produit de ces diviseurs propres.
+Exemple :
+Si l'utilisateur entre 6, le programme affiche :
+6 est parfait.
+Si l'utilisateur entre 12, le programme affiche :
+12 n'est pas parfait car le produit de ces diviseurs est

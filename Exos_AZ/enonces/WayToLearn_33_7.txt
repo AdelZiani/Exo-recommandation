@@ -1,0 +1,1 @@
+Ecrivez un programme Python pour abréger ‘Quartier’ en ‘Quart.’ dans une chaîne donnée. 

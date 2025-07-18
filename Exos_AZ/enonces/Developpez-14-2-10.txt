@@ -1,0 +1,2 @@
+Un train parcourt 170 km. Écrire un programme qui affiche, pour des vitesses allant de 100 à 300 km/h (par pas de 10), le temps nécessaire pour arriver, ainsi que l’heure d’arrivée si le départ a lieu à 6h00.
+

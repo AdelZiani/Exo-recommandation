@@ -1,0 +1,1 @@
+Écrivez la fonction additions_int(n, b=1000) qui renvoie la somme de n entiers aléatoires non nuls (générés à l’aide de la fonction randint() du module random)

@@ -1,0 +1,5 @@
+Define a class named American and its subclass NewYorker.
+
+
+Use class Subclass(ParentClass) to define a subclass.
+

@@ -1,0 +1,4 @@
+Define a class named American which has a static method called printNationality.
+
+Use @staticmethod decorator to define class static method.
+

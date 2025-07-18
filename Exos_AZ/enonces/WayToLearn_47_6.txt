@@ -1,0 +1,1 @@
+Écrire un programme Python pour filtrer une liste donnée afin de trouver les valeurs dans la liste qui ont une longueur de 3 en utilisant Lambda. 

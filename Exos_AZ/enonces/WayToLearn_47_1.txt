@@ -1,0 +1,1 @@
+Écrire un programme Python pour vérifier si une chaîne donnée est un nombre ou non en utilisant Lambda. 

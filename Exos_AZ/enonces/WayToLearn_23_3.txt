@@ -1,0 +1,1 @@
+Écrire un programme Python pour trier numériquement une liste donnée de chaînes de caractères (nombres). 

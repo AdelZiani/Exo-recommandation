@@ -1,0 +1,1 @@
+Écrire un programme Python pour calculer la somme des nombres dans une liste entre les index spécifiées.

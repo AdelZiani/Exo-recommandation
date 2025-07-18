@@ -1,0 +1,1 @@
+Ecrivez un programme NumPy pour créer un tableau de même forme et de même type de données pour un tableau donné.

@@ -1,0 +1,5 @@
+Print a unicode string "hello world".
+
+
+Use u'strings' format to define unicode string.
+

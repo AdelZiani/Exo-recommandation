@@ -1,0 +1,1 @@
+Écrire un programme NumPy pour créer une autre forme à partir d’un tableau sans en modifier les données. 

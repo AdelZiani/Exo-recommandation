@@ -1,0 +1,1 @@
+Écrire un programme en Python qui prend deux entiers de l’utilisateur (un nombre de base et un exposant) et calcule la puissance.

@@ -1,0 +1,1 @@
+Écrire un programme Python pour arrondir les nombres d’une liste donnée, afficher les nombres minimum et maximum et multiplier les nombres par 5. Afficher les nombres uniques dans l’ordre croissant, séparés par un espace. 

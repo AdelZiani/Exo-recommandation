@@ -1,0 +1,1 @@
+Écrire un programme Python pour supprimer le nième caractère (index) d'une chaîne de caractères non vide.

@@ -1,0 +1,1 @@
+Écrire un programme Python pour créer une classe représentant une structure de données de file d&#39;attente. Incluez des méthodes pour insérer des éléments dans la file d&#39;attente et les retirer de la file d&#39;attente.

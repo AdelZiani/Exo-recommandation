@@ -1,0 +1,3 @@
+Écrivez une fonction decoupage_croissant qui prend une liste d’entiers lst en paramètre et renvoie la liste des sous-listes maximales croissantes de lst. 
+
+Attention, on souhaite que la complexité de cette fonction soit linéaire.

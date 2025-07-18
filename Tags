@@ -1,0 +1,110 @@
+#Affichage
+Utilisation de print#utilisation de la fonction print pour afficher
+#Aléatoire
+Aléatoire#Utilisation de l'aléatoire quelconque
+#Autres
+Utilisation de lambda#mot clé "lambda"  Exemple : lambda x: x%2==0
+#Autres opérations
+#Boucles
+For in range(x, y, z)#
+For in range(x, y)#
+For in range(x)#
+Boucles imbriqués#boucles dans d'autres boucles
+For sans variable#exemple: for _ in range
+For avec variable#exemple: for i in range()
+Utilisation de for sans range#toute boucle for qui ne sont pas de la forme "for _ in range()"
+Utilisation de for in range#boucle for de la forme "for _ in range()"
+Boucle While #Utilisation du mot clé "while"
+Boucle for#Utilisation du mot clé "for" 
+Utilisation de boucle #Utilisation d'une boucle for ou while
+Fonction map()#
+Fonction filter()#
+Fonction range()#
+#Condition
+Utilisation du mot clé elif#
+Utilisation du mot clé else#
+Utilisation du mot clé if#
+#Création de classes
+Création de classe#mot clés class
+#Entrée clavier
+Demande d'entrée utilisateur#Utilisation de la fonction input
+#Fichiers
+Ouverture de fichiers#Utilisation de la fonction open
+#Fonctions et méthodes
+Fonction dont on choisis l'argument#fct(end="")
+Fonction qui ne renvoie rien#fonction qui ne contient pas de return
+Présence du mot clé yield#Présence du mot clé yield
+Appel d'une méthode#appel d'une méthode d'un objet exemple: d.keys()
+Appel fonction sans paramètres#appel d'une fonction sans utiliser de paramètre
+Appel fonction avec plusieurs paramètres#Appel d'une fonction en utilisant plus de 1 paramètre
+Appel de fonction avec unique paramètre#appel d'une fonction en utilisant un seul paramètre
+Fonction récursive#fonction qui s'appelle elle-même
+Appel de fonction#appel à une fonction créée par l'utilisateur ou bien disponible dans la bibliothèque standard
+Fonction qui renvoie#apparition du mot clés return
+Définition de fonction avec paramètre à valeur par défaut#def fct(i=2):
+Définition de fonction avec plusieurs paramètres#Définition d'une fonction qui prend plusieurs paramètres
+Définition de fonction avec unique paramètre#Définition d'une fonction qui prend un seul paramètre
+Définition de fonction sans paramètre#définition d'une fonction qui ne prend aucun paramètre
+Définition de fonction#def fct():
+#Gestion des exceptions
+Lever une exception#présence du mot clé raise
+#Importation et Modules
+Alias pour un import#import numpy as np
+Import d'éléments de bibliothèque#Exemple : from sklearn import kmeans
+Import#Importation de bibliothèque quelconque
+Import de bibliothèque#Exemple : import sklearn
+#Manipulation d'ensembles
+#Manipulation de dictionnaires
+Utilisation de la méthode keys()#dico.keys
+Affectation d'une valeur dans un dictionnaire#Exemple : dico[key] = 7
+Accès à un dictionnaire#utilisation de dico[key]
+Création de dictionnaire via la fonction dict #Création d'un dictionnaire via la fonction dict()
+Création explicite d'un dictionnaire#Création d'un dictionnaire avec {}
+#Manipulation de listes
+Méthode sort()#lst.sort()
+Slice d'une liste#Exemple : lst[::4]
+liste de listes#listes contenant d'autres listes
+Création de liste via la fonction list()#Utilisation de la fonction list()
+Compréhension de liste#[x for x in lst]
+Accès à une liste#Exemple : lst[6]
+Utilisation de la fonction insert()#Utilisation de la fonction insert sur les listes
+Utilisation de la fonction pop()#Utilisation de la fonction pop sur une liste
+Utilisation de la fonction append()#utilisation de la fonction append sur les listes
+Ecriture de liste#Ecriture explicite de liste exemple : [1, 2, 3]
+#Manipulation de tuples
+Création de tuple via la fonction tuple()#Exemple : (tuple(li))
+Ecriture explicite de tuple#Exemple : (2, 5, 6)
+#Manipulation de variables et de constantes
+Utilisation de variables#Utilisation de variables déjà crée
+Décrémentation de variable#Utilisation de -=
+Incrémentation de variable#utilisation de +=
+Initialisation de variable ou de constante#création d'une variable
+#Opérations arithmétiques
+Appel à la fonction sqrt()#
+Opération arithmétique %#
+Opération arithmétique **#
+Opération arithmétique //#
+Opération arithmétique /#
+Opération arithmétique *#
+Opération arithmétique -#
+Opération arithmétique +#
+#Opérations booléennes
+Valeur booléenne False#
+Valeur booléenne True#
+Opérateur booléen >#
+Opérateur booléen <#
+Opérateur booléen !=#
+Opérateur booléen <=#
+Opérateur booléen ==#
+Opérateur booléen >=#
+Opération booléennes#Présence d'opérateurs booléens
+Opérateur booléen Not#
+Opérateur booléen Or#
+Opérateur booléen And#
+#Opérations sur les chaines de caractères
+Répétition d'une chaine de caractères#Exemple : "toto" * 8
+Concaténation de chaines de caractères#Exemple : "Hello " + "World"
+#Types
+Fonction de cast en string#Exemple str(45)
+Fonction de cast en int#exemple : int("5")
+Fonction de cast#une fonction qui cast en un type

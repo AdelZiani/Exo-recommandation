@@ -1,0 +1,1 @@
+Ecrivez un programme Python pour vérifier si une liste est vide ou non.

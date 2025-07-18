@@ -1,0 +1,1 @@
+Écrire un programme Python pour trouver l'index d'un élément dans une liste spécifiée.

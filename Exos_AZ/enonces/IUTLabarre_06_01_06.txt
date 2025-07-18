@@ -1,0 +1,1 @@
+Écrivez une fonction annule_diagonales qui prend une matrice en argument. Si elle possède autant de lignes que de colonnes, la fonction renvoie une nouvelle matrice contenant les mêmes éléments sauf sur ses deux diagonales, qui contiennent désormais des zéros. Sinon, elle renvoie simplement la matrice.

@@ -1,0 +1,1 @@
+Écrivez une fonction liste_carres qui prend en paramètre une liste lst et renvoie la liste des carrés des éléments de lst.

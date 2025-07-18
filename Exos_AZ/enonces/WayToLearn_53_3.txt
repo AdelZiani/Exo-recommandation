@@ -1,0 +1,1 @@
+Ecrire un programme NumPy pour créer un nouveau tableau de forme (5,6) et de type donnés, rempli de zéros. 

@@ -1,0 +1,1 @@
+Écrivez un programme Python qui utilise la fonction de filtrage pour extraire toutes les lettres majuscules d’une liste de chaînes de caractères mixtes. 

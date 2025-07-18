@@ -1,0 +1,1 @@
+Écrire un programme Python pour pour insérer les éléments d’une liste au début d’une liste. 

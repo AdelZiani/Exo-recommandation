@@ -1,0 +1,3 @@
+La fonction `prefisuffi` prend deux listes et retourne "prefix" si la liste l1 est préfixe de la liste l2,
+"suffix" si la liste l1 est suffixe de la liste l2 et "lesdeux" si c'est les deux.
+Et enfin "aucun" si ce n'est ni l'un ni l'autre

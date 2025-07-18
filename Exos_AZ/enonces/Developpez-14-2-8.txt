@@ -1,0 +1,2 @@
+Un gardien monte et descend un escalier plusieurs fois par jour. Écrire un programme qui demande le nombre de marches et la hauteur d’une marche, puis calcule la distance totale parcourue en montant et descendant l’escalier 5 fois par jour pendant 7 jours.
+

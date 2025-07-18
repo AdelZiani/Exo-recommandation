@@ -1,0 +1,7 @@
+level 1
+
+Question:
+Write a method which can calculate square value of number
+
+Using the ** operator
+

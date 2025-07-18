@@ -1,0 +1,1 @@
+Écrivez la fonction enumerer2(liste) qui renvoie une autre liste contenant en case i le nombre de fois que i apparaît dans la liste

@@ -1,0 +1,1 @@
+Écrire un programme Python pour convertir une liste en un tuple. 

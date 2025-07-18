@@ -1,0 +1,1 @@
+Écrivez une classe Python nommée Etudiant avec deux attributs nom_etudiant, notes. Modifiez les valeurs des attributs de cette classe et affichez les valeurs originales et modifiées de ces attributs. 

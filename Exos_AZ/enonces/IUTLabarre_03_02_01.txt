@@ -1,0 +1,1 @@
+Écrivez un programme qui prend un entier positif n demandé à l’utilisateur, et affiche si le nombre est premier ou non

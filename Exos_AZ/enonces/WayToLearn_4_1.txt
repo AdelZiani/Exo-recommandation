@@ -1,0 +1,1 @@
+Écrire un programme en Python qui affiche une demi-pyramide en utilisant des alphabets, en fonction d’un entier N saisi par l’utilisateur.

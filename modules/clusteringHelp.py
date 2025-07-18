@@ -73,19 +73,29 @@ def DBScan(dict):
     labels = model.labels_
     print_cluster(values, labels)
 
-def read_clusters(file):
+def define_list_of_tag(file):
     f = open(file, "r")
-    lst = []
-    pred = []
-    i = -1
+    lst = set()
+    line = None
+    while line != '':
+        line = f.readline().removesuffix("\n")
+        if line not in lst and not line.startswith("#"):
+            lst.add(line)
+    f.close()
+    return list(lst)
+
+def read_clusters(file, order):
+    f = open(file, "r")
+    pred = [None for elem in order]
+    num_cluster = -1
     line =None
     while line != "":
         line = f.readline()
         if line.startswith('#'):
-            i+=1
+            num_cluster+=1
         else:
-            if lst.count(line.removesuffix("\n")) == 0:
-                lst.append(line.removesuffix("\n"))
-                pred.append(i)
+            index = order.index(line.removesuffix("\n"))
+            if pred[index] == None:
+                pred[index] = num_cluster
     f.close()
     return pred

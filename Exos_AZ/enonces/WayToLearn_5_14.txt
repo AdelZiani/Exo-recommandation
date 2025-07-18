@@ -1,0 +1,1 @@
+Écrire un programme en Python permettant de calculer le plus grand commun diviseur (PGCD) entre deux nombres entiers entrés par l'utilisateur.

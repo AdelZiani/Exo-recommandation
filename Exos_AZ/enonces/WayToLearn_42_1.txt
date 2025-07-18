@@ -1,0 +1,1 @@
+Écrivez un programme Python pour créer une classe appelée « ProduitElectronique » avec des attributs pour l’ID, le nom et le prix du produit. Implémentez des méthodes pour appliquer une remise et calculer le prix final. Créez une classe fille « Refrigerateur » qui ajoute un attribut de période de garantie et une méthode pour étendre la garantie. 

@@ -1,0 +1,1 @@
+Écrire un programme Python qui exécute une opération de liste et gère une exception AttributeError si l’attribut n’existe pas.

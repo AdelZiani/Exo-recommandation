@@ -1,0 +1,1 @@
+Ecrire un programme NumPy pour inverser un tableau (le premier élément devient le dernier). 

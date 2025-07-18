@@ -1,0 +1,101 @@
+Identifiant Source	Identifiant Exercice	
+Git	Github0.py	
+Git	Github1.py	fonction, boucle for, méthode range, modulo, condition and, méthode str, méthode append, méthode join, méthode print,initialisation de liste, boucle for, range, conditionnel, modulo, conversion de type, affichage, join,int, divisibles, modulo, if , booléen, and, différent, liste, append, str, for in range, print, concaténation de chaine, join, range(begin end), manipulation de liste
+Git	Github2.py	mathématiques, module math, méthode fact, prise d'input, condition if, fonction, méthode print,factoriel, fonction, fonction avec paramètres, conditionnel, récursivité, input,int, input, factorielle, def, multiplication, fonction récursive, if, booléen, print, return, récursivité des variables
+Git	Github3.py	dictionnaires, boucle for, réflexion, prise d'input,input, conversion de type, dictionnaire, boucle for, range, produit,dict, ajout de clé-valeur, int, input, for in range, for(begin end), print, print(dict), multiplications, variables
+Git	Github4.py	 méthode split, tuples, prise d'input,liste, tuple, input, split,list, tuple, string, input, split, list_to_tuple, print, types d'ensembles
+Git	Github5.py	création de classe, definition de méthodes, chaines, prise d'inputs, développement objet, méthode upper, méthode s,POO, classe, méthode, chaine de caractère, input ,class, object, méthodes de classes, init class, def, self, variables de classes, fonction de classes, input, string, upper, print, utilisation de classes 
+Git	Github6.py	module math, compréhension de listes, boucle for, prise d'input, méthode split, méthode sqrt, méthode float, listes,compréhension de liste, input, split, liste, sqrt, math conversion de type, boucle for,import, math, sqrt, int, variables, variables globales, list, input, split, for in list, compréhension de liste, append, str, round, division, multiplication, float, print, concaténation de chaine, join, manipulation de listes
+Git	Github7.py	navigation dans un espace 2D, compréhension de matrices, listes de listes, boucle for, prise d'input, méthode split,matrice, boucle for, compréhension de liste, split, input, liste de liste,matrice, list, liste de listes, input, str, int, split, for in list, for in range, création de matrice, manipulation de matrice, print, multiplications
+Git	Github8.py	tri, prise d'input, compréhension de listes, méthode sort, méthode join, méthode split,compréhension de liste, input, split, liste, sort, join, chaines de caractères,compréhension de liste, list, for in list, split, input, string, sort, fonctions de listes, print, concaténation de chaine, join, programme à input précis
+Git	Github9.py	listes, méthode upper, méthode append, manipulation de chaine, boucle for, boucle while, key word break, prise d'input,initialisation de liste, boucle while, input, conditiionnel, break, boucle for,input, string, upper, while, while input true, while break, if, boolean, list, append, for in list, print
+Git	Github10.py	prise d'input, méthode split, méthode set, méthode sorted, méthode joint, méthode list, réflexion, listes, imbrication de méthodes,input, compréhension de liste, ensemble, join, sorted, liste,fonctions chainées, list, for in list, split, input string, concaténation de chaine, join, print, sorted, fonctions de listes, set, types de listes, transformations d'ensembles
+Git	Github11.py	base 2, listes, méthode join, méthode int, compréhension de listes, méthode split, modulo,binaire, divisibilité, liste, compréhension de liste, input, boucle for, opérateur booléen, modulo,list, split, for in list, input, compréhension de liste, binaire, modulo, int, int binaire, if not, booléen, append, print, concaténation de chaine, join
+Git	Github12.py	nombres comme string, méthode int, méthode str, modulo, listes, boucle for, manipulation de pas, manipulation d'indexes, conditions if,input, conditionnel, opérateurs booléen, liste, modulo, conversion de type,list, str, int, for in range, for(begin end), if, and, booléen, modulo, parité d'un chiffre, append, print, concaténation de chaine, join
+Git	Github13.py	prise d'input, dictionnaires, boucle for, méthode isdigit, méthode isalpha, key word pass, analyse de chaine,méthodes sur des chaines de caractères, compteur, dictionnaire, input, conditionnel, boucle for,input, dict, string, type de char, isdigit, isalpha, for in string, analyse de caractère, increment valeur dict, if elif else, bool, pass, fonctions sur les string, print, appel de dictionnaire, 
+Git	Github14.py	analyse de chaine, dictionnaires, prise d'input, key word pass, méthode isupper, méthode is lower,méthodes sur des chaines de caractères, compteur, dictionnaire, input, conditionnel, boucle for,input, dict, string, type de char, isupper, islower, for in string, analyse de caractère, increment valeur dict, if elif else, bool, pass, fonctions sur les string, print, appel de dictionnaire, 
+Git	Github15.py	prise d'input, déclaration de type, méthode int, n - uplets,somme, input, formatage d'un entier,formattage de chaines, int, string, cast, input, addition, print, 
+Git	Github16.py	compréhension de listes modulo, méthode split, prise d' input, ,compréhension de liste, parité, liste, modulo, conditionnel,input, compréhension de liste, modulo, booléen, for in list, split, list, if, print, concaténation de chaine, join, int, cast
+Git	Github17.py	key word pass, prise d'input, application conrète, boucle while True, key word break, condition not, condition elif,boucle while, input, conditionnel, conversion de type, somme,while, boucle booléenne, break, if, booléen, input, string, int, cast, split, if elif else, pass, print, comparaison de string, 
+Git	Github18.py	module re, méthode search, key word continue, compréhension de listes, condition not, condition elif, ,conditionnel, input, module re, liste, boucle for, regex,passwordinput, input, string, booléen, import, re, re.search, continue, pass, if elif else, if else, len, analyse de string, split, compréhension de liste, for in liste, print, if not, join, concaténation de chaine
+Git	Github19.py	tri spécifique, tuples, prise d'input, méthode sorted, key de sorted, key word break, module operator, listes, condition not, ,itemgetter, liste, boucle while, conditonnel, break, sorted,from import, operator, itemgetter, attrgetter, list, while, boucle booléenne, break, input, if, booléen, append, tuple, liste de tuple, split, cast, print, sorted, tri par attributs, tri par priorité
+Git	Github20.py	développement objet, classes, key word yield, modulo, méthode reverse,POO, classe, méthode, yield,class, generator, yield, def, int, modulo, divisibles, if, booléen, while, boucle booléenne, print, for, reverse
+Git	Github21.py	prise d'input, application concrète, module math, méthode sqrt, navigation dans un espace 2D, key word pass, méthode int,calcul de distances, liste, boucle while, conversion de type,coordonnées, while, boucle booléenne, break, input, string, split, liste, if elif else, pass, int, booléen, comparaison de chaines, distance entre deux points, import, math, sqrt, round, carré d'un nombre, print, cast 
+Git	Github22.py	dictionnaires, boucle for, prise d'input, déclaration de type, méthode get, méthode sort, analyse de chaines,dictionnaire, input, chaine de caractères, boucle for, formatage de chaines de caractères,dict, ajout de clé-valeur, input, string, for in list, split, get, dict keys, sort, print, formattage, fréquence d'éléments
+Git	Github23.py	mathématiques, opérateur **,opérateur puissance, fonction avec paramètre,def, square value, return, carré d'un nombre, int, multiplication, fonction à un paramètre
+Git	Github24.py	fonction abs, fonction int, fonction raw_input, création de documentation,docstring, fonction,document, __doc__, def, fonctions, print, document method, written doc, int, abs, input
+Git	Github25.py	,POO, paramètre de classe, paramètre d'instance ,class, variable de class, class self, init, def, définition de classe, manipulation de classe, format, print formatté, string, 
+Git	Github26.py	,somme, fonction avec paramètre,def, fonction à deux paramètres, print, int, appel de fonction, addition de variables
+Git	Github27.py	,fonction avec paramètre, conversion de type,def, cast, fonction à un paramètre, print, str, appel de fonction
+Git	Github28.py	,,
+Git	Github29.py	,fonction avec paramètre, conversion de type,def, fonction à deux paramètres, print, int, cast, str, appel de fonction
+Git	Github30.py	,fonction avec paramètre, concaténation de chaines de caractères,def, fonction à deux paramètres, print, string, concaténation de string, appel de fonction
+Git	Github31.py	,,def, string, len, if elif else, booléen, variable, print, fonction à deux paramètres, appel de fonction
+Git	Github32.py	,,def, int, fonction à un paramètre, modulo, parité de nombre, if else, booléen, print, comparaison de nombres, 
+Git	Github33.py	,,def, dict, manipulation de dictionnaire, clé, valeur, carré d'un nombre, print, 
+Git	Github34.py	,,def, dict, manipulation de dictionnaire, clé, for in range, for(begin end), valeur, carré d'un nombre, print, 
+Git	Github35.py	,,def, dict, manipulation de dictionnaire, clé, for in range, for(begin end), valeur, carré d'un nombre, for in items, lecture d'un dictionnaire, print, 
+Git	Github36.py	,,def, dict, manipulation de dictionnaire, clé, for in range, for(begin end), valeur, carré d'un nombre, for in keys, lecture d'un dictionnaire, print, 
+Git	Github37.py	,,def, list, manipulation de liste, for in range, for(begin end), carré d'un nombre, lecture d'une liste, print, append
+Git	Github38.py	,,def, list, manipulation de liste, for in range, for(begin end), carré d'un nombre, lecture d'une liste, print, append, slice, slice until
+Git	Github39.py	,,def, list, manipulation de liste, for in range, for(begin end), carré d'un nombre, lecture d'une liste, print, append, slice, slice from
+Git	Github40.py	,,def, list, manipulation de liste, for in range, for(begin end), carré d'un nombre, lecture d'une liste, print, append, slice, slice from
+Git	Github41.py	,,def, list, manipulation de liste, for in range, for(begin end), carré d'un nombre, cast, list to tuple, tuple, print, append
+Git	Github42.py	,,tuple, slice, print, lecture de tuple, lecture d'un slice, one-line-commands, compréhension de liste
+Git	Github43.py	,,tuple, list, for in tuple, modulo, booléen, if, append, lecture de tuple, compréhension de liste, 
+Git	Github44.py	,,input, comparaison de string, if, booléen, or, print, else
+Git	Github45.py	,,filter, lambda, compréhension de liste, list, modulo, booléen, parité de nombres, print, filtre booléen
+Git	Github46.py	,,map, lambda, carré d'un nombre, liste, compréhension de liste, print
+Git	Github47.py	,,map, filter, lambda, compréhension de liste, list, modulo, booléen, parité de nombres, carré d'un nombre, print, filtre booléen, one line commands
+Git	Github48.py	,,filter, lambda, compréhension de liste, list, modulo, booléen, parité de nombres, range, range(begin end), print, filtre booléen
+Git	Github49.py	,,map, lambda, carré d'un nombre, liste, compréhension de liste, range, range(begin end), print
+Git	Github50.py	,,class, génération de class, méthode de classe, méthode statique, utilisation de class, fonction de classe, print
+Git	Github51.py	,,class, génération de classes, pass, subclass, lien entre classes, parenté de classes
+Git	Github52.py	,,class, génération de classes, méthode de classe, self, variable de classes, def, __init__, return, carré d'un nombre, formule mathématique, cercle, print, manipulation de classe
+Git	Github53.py	,,class, génération de classes, méthode de classe, self, variable de classes, def, __init__, return, formule mathématique, rectangle, print, manipulation de classe
+Git	Github54.py	,,class, génération de classes, pass, subclass, attributs de classes, lien entre classes, parenté de classes, fonctions de classe parent, carré, return, def, __init__, print, pass, self, aire de figure
+Git	Github55.py	,,error, exception, raise, runtime Error, manipulation d'erreurs, erreurs informatives
+Git	Github56.py	,,exception, error, try catch, division impossible, except, ZeroDivisionError, finally, print, gestion des erreurs
+Git	Github57.py	,,class, exceptions, exception créée, subclass, parenté de classes, attributs de classes, __init__, def, utilisation d'exception
+Git	Github58.py	,,import, re, match, fonctions importées, input, manipulation de string, comparaison de string, group, print, 
+Git	Github59.py	,,import, re, match, fonctions importées, input, manipulation de string, comparaison de string, group, print, 
+Git	Github60.py	,,import, re, findall, comparaison de string, print, input, fonction à paramètres spéciaux
+Git	Github61.py	,,unicode string, string, format, print, format(u"string")
+Git	Github62.py	,,unicode string, unicode, utf-8, input, string, format, print
+Git	Github63.py	,,comment, unicode, utf-8, coding
+Git	Github64.py	,,suite mathématique, int, float, cast, for in range, range(begin end), input, print
+Git	Github65.py	,,récursivité, fonction récursive, def, fonction à un paramètre, if else, booléen, return, int, input, print
+Git	Github66.py	,,récursivité, fonction récursive, def, fonction à un paramètre, if elif else, structure booléenne, booléen, return, int, input, print, fibonacci
+Git	Github67.py	,,récursivité, fonction récursive, def, fonction à un paramètre, if elif else, structure booléenne, booléen, return, int, input, fibonacci, list, compréhension de liste, for in range, str, cast, print, join, concaténation de chaîne 
+Git	Github68.py	,,generator, yield, for in generator, modulo, if, parité, while, boucle conditionnelle, list, append, str, cast, print, join, concaténation de chaîne
+Git	Github69.py	,,generator, yield, for in generator, modulo, if, and, booléen, divisibles, for in range, list, append, str, cast, print, join, concaténation de chaîne
+Git	Github70.py	,,assert, assert statement, assert expression, parité, modulo, booléen, liste, for in list, 
+Git	Github71.py	,,input, string, analyse de string, fonction de lecture, cast
+Git	Github72.py	,,import, import math, def, liste, len, while, boucle booléenne, and, structure conditionnelle, if elif else, math floor, int, cast, méthode de lecture de liste, binary search method 
+Git	Github73.py	,,
+Git	Github74.py	,,random, import, print, float, random random, 
+Git	Github75.py	,,random, import, print, float, random random, 
+Git	Github76.py	,,random, import, print, for in range, modulo, parité, compréhension de liste, list, if, booléen, random choice
+Git	Github77.py	,,random, import, print, for in range, modulo, divisibles, compréhension de liste, list, if, and, booléen, random choice
+Git	Github78.py	,,random, import, print, range, tuple, list, random sample,
+Git	Github79.py	,,random, sample, import, print, for in range, modulo, parité, compréhension de liste, list, if, booléen, random sample
+Git	Github80.py	,,random, sample, import, print, for in range, modulo, divisibles, compréhension de liste, list, if, and, booléen, random sample
+Git	Github81.py	,,random, randrange, import, print, int
+Git	Github82.py	,,import, zlib, compress, decompress, string, string compressed, format, bytes format
+Git	Github83.py	,,from import, timeit, timer, for in range, format, string to code, cast, print, intervalles, durée d'exécution
+Git	Github84.py	,,from import, random, random shuffle, liste, fonction sur les listes, fonction modifiant une liste, print
+Git	Github85.py	,,
+Git	Github86.py	,,list, for in range, len, boucles embriquées, formattage, string, tuple to string, print
+Git	Github87.py	,,compréhension de liste, list, for in liste, modulo, parité, booléen, if, print
+Git	Github88.py	,,compréhension de liste, list, for in liste, modulo, divisibles, booléen, if, and, print
+Git	Github89.py	,,compréhension de liste, enumerate, list, index valeur, tuple, modulo, booléen, if, parité de l'index, filtre de position, for in list, print
+Git	Github90.py	,,3D array, compréhension de liste, for in range, listes embriquées, matrice 3D, list, print
+Git	Github91.py	,,compréhension de liste, enumerate, list, index valeur, tuple, booléen, if not, not in list, valeur d'index, filtre de position, for in list, print
+Git	Github92.py	,,list, remove, valeur de liste, compréhension de liste, for in list, if, booléen, comparaison de valeur, print
+Git	Github93.py	,,cast, set, ensembles, list to set, set to list, concaténation d'ensembles, print, particularité d'ensembles, suppression des doubles
+Git	Github94.py	,,fonction, valeurs en doubles, suppression des doubles, ensemble, list, add, append, for in liste, lecture de liste, lecture d'ensemble, if not, not in liste, return, print
+Git	Github95.py	,,class, parenté de classes, classes enfant, classe parent, méthodes de classes, méthodes héritées, def, return, string, initialisation de classes, print
+Git	Github96.py	,,string, occurences de caractères, dict, dictionnaire, clés, valeurs, dict.get, for in string, input, initialisation de dictionnaire, print, format de string, compréhension de liste, join, dict.items, for in liste, tuple, 
+Git	Github97.py	,,slice, reverse slice, liste, manipulation de liste, reverse order
+Git	Github98.py	,,slice, even slice, liste, manipulation de liste, filtre par position, parité d'index
+Git	Github99.py	,,import, itertools, permutation, cast, list, liste de listes, print, fonction de listes, permutations de liste

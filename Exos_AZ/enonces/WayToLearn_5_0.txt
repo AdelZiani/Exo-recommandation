@@ -1,0 +1,1 @@
+Écrire un programme en Python qui affiche n fois « Hello ». En utilisant la boucle « for ».

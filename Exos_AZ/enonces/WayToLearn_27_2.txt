@@ -1,0 +1,1 @@
+Écrire un programme Python pour créer un tuple de nombres et afficher un seul élément. 

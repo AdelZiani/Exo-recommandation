@@ -1,0 +1,1 @@
+Écrivez une fonction debut_croissant qui prend une liste d’entiers lst en paramètre et renvoie le plus long préfixe croissant de lst, c’est-à-dire la plus longue sous-liste commençant au début.de lst et ne contenant pas de décroissance.

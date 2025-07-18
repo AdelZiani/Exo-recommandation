@@ -1,0 +1,1 @@
+Ecrire un programme NumPy pour remplacer tous les nombres d’un tableau donné égaux, inférieurs et supérieurs à un nombre donné.

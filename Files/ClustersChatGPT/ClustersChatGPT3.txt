@@ -1,0 +1,72 @@
+#
+import de bibliothèque
+import de bibliothèque
+import
+#
+initialisation de variable
+initialisation de variable
+initialisation de variable
+variables
+variable
+#
+input de données
+input de données
+input de données
+entrées clavier
+entrée clavier
+entrée clavier
+input
+input
+#
+cast
+type float
+cast
+type float
+cast
+type int
+cast
+conversion de chaines de caractères
+conversion de chaines de caractères
+cast
+#
+calcul avec PI
+calcul d'une somme d'entier
+opérations numériques
+opérations numériques
+opérations numériques
+operations
+#
+division réel
+opérateur arithmétique /
+opérateur arithmétique *
+opérateur arithmétique *
+opérateur arithmétique *
+opérateur arithmétique +
+#
+affichage écran texte et valeur d'une variable
+affichage écran texte et valeur formaté d'une variable
+affichage écran texte et valeur formaté d'une variable
+#
+appel fonction print
+appel fonction print
+appel fonction print
+#
+boucle while
+boucle while
+boucle while
+while
+while
+#
+condition booléen
+condition booléen
+conditionnel
+if
+#
+opérateur booléen >
+opérateur booléen >
+comparaison
+comparaison
+#
+affectation de variable
+incrémentation d'une variable
+incrémentation

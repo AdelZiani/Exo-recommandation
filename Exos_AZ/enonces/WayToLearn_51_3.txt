@@ -1,0 +1,1 @@
+Ecrire un programme NumPy pour multiplier les valeurs de deux vecteurs donnés. 

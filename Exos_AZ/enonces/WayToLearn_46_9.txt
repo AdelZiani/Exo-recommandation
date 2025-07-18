@@ -1,0 +1,1 @@
+Écrire un programme Python pour trouver si une chaîne donnée commence par le caractère &#39;A&#39; en utilisant Lambda. 

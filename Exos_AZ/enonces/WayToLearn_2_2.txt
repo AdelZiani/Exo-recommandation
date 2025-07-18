@@ -1,0 +1,1 @@
+Ecrivez un programme Python qui accepte un nombre et vérifie s’il est pair ou non. Affiche 1 si le nombre est pair ou 0 s’il est impair.

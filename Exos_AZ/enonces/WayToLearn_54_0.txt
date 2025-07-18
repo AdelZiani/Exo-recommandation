@@ -1,0 +1,1 @@
+Écrire un programme NumPy pour convertir les dtypes numpy en types Python natifs.

@@ -1,0 +1,1 @@
+Écrire un programme Python pour générer des groupes de quatre nombres consécutifs dans une liste. 

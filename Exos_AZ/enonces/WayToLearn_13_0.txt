@@ -1,0 +1,1 @@
+Écrire un programme Python pour lire un fichier texte complet.
