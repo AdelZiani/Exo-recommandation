@@ -1,3 +1,4 @@
+#bibliothèque contenant l'algo de Zhang-Shasha
 import zss
 import ast
 import csv
@@ -33,7 +34,7 @@ def range_append(n):
 
 args = sys.argv
 
-# Analyse du code en AST
+# Création des AST
 tree1 = ast.parse(code)
 tree2 = ast.parse(code2)
 
@@ -42,6 +43,8 @@ print("\n\n\n\n")
 
 print(ast.dump(tree2, indent=4))
 
+
+#Cette fonction convertit les AST données par la lib ast en AST pour Zhang-Shasha
 def convert_ast(tree):
     node = zss.Node(type(tree))
     for key in tree.__dict__:
@@ -54,6 +57,8 @@ def convert_ast(tree):
     return node
 
 
+
+#créé un set contenant tout les noeuds de l'abre enraciné en node
 def get_set(node):
     ret = set()
     ret.add(node.get_label(node))
@@ -62,6 +67,7 @@ def get_set(node):
     return ret
 
 
+#Crée un fichier CSV avec toutes les pairs d'exercices contenus dans le repo args[1] et leurs distances Zhang-Shasha.
 def get_distances():
     def x(a):
         if a.get_label(a) in set1 and a.get_label(a) in set2:
@@ -106,33 +112,3 @@ def get_distances():
                 
 
 get_distances()
-
-"""
-for i in range(1,100):
-    dico = {}
-    temoin = open("solutions/Github" + str(i) + ".py")
-    temoin = temoin.read().removeprefix("```python").removesuffix("```")
-    while temoin.endswith("\n") or temoin.startswith("\n"):
-        temoin= temoin.removesuffix("\n").removeprefix("\n")
-    temoin = temoin.removeprefix("```python").removesuffix("```")
-    print("le code temoin : \n", temoin, "\n\n son ast: \n\n")
-    print(ast.dump(ast.parse(temoin), indent=4)) 
-    # Recherche de l'ast le plus proche
-    for j in range(1, 100):
-        f = open("solutions/Github" + str(j) + ".py")
-        code = f.read()
-        while code.endswith("\n") or code.startswith("\n"):
-            code = code.removesuffix("\n").removeprefix("\n")
-        code = code.removeprefix("```python").removesuffix("```")
-        tree = ast.parse(code)
-        dico[code] = zsrange_append',
-            args=argumentss.simple_distance(convert_ast(ast.parse(temoin)), convert_ast(tree))
-    plus_petits = sorted(dico.items(), key=lambda x: x[1])[:3]
-    cles_plus_petites = [cle for cle, val in plus_petits]
-    for elem in cles_plus_petites:
-        print("voisin : \n", elem)
-    print("------------------------------------------------------------------------------------------------------------------------")"""
-
-"""
-This function return 5 
-"""
