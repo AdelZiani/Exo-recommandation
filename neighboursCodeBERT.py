@@ -52,7 +52,7 @@ def get_distances():
         for elem in keys:
             for elem2 in keys:
                 dist = cosine_distance(elem, elem2)
-                spamwriter.writerow([open(args[1] + "/enonces/" + i[sentences.index(dico[elem])].replace(".py", ".txt").replace("soluce", "énoncé"), "r").read(), dico[elem], open(args[1] + "/enonces/" + i[sentences.index(dico[elem])].replace(".py", ".txt").replace("soluce", "énoncé"), "r").read(), dico[elem2], dist])
+                spamwriter.writerow([open(args[1] + "/enonces/" + i[sentences.index(dico[elem])].replace(".py", ".txt").replace("soluce", "énoncé"), "r").read(), dico[elem], open(args[1] + "/enonces/" + i[sentences.index(dico[elem2])].replace(".py", ".txt").replace("soluce", "énoncé"), "r").read(), dico[elem2], dist])
 
 
 
